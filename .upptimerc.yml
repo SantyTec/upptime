@@ -1,12 +1,12 @@
 owner: SantyTec
-repo: upptime-store
+repo: upptime
 
 sites:
   - name: SantyTec Store
     url: https://www.santytec.com.ar
 
 status-website:
-  baseUrl: /upptime-store
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "**SantyTec Store**"
   navbar:
